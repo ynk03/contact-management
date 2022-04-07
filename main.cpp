@@ -26,7 +26,6 @@ bool check_digit(string);
 int main()
 {
    system("cls");
-   system("color 0A");
    
    int option;
    
